@@ -1,0 +1,162 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "f7fe5c9749f0337a3035",
+  "publicPath": "/static/",
+  "outputPath": "/Users/xavi/Dev/blog/build/static",
+  "assetsByChunkName": {
+    "blog": [
+      "blog.module.js",
+      "blog.66357189263610b384a6.hot-update.js"
+    ],
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "66357189263610b384a6.hot-update.json",
+      "size": 46,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "blog.66357189263610b384a6.hot-update.js",
+      "size": 13898,
+      "chunks": [
+        "blog"
+      ],
+      "chunkNames": [
+        "blog"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "blog.module.js",
+      "size": 6426930,
+      "chunks": [
+        "blog"
+      ],
+      "chunkNames": [
+        "blog"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 46529,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "blog": {
+      "chunks": [
+        "blog"
+      ],
+      "assets": [
+        "blog.module.js",
+        "blog.66357189263610b384a6.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "blog": {
+      "chunks": [
+        "blog"
+      ],
+      "assets": [
+        "blog.module.js",
+        "blog.66357189263610b384a6.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "blog",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1654855,
+      "names": [
+        "blog"
+      ],
+      "files": [
+        "blog.module.js",
+        "blog.66357189263610b384a6.hot-update.js"
+      ],
+      "hash": "eb1728de71c2cd1388fc",
+      "siblings": [],
+      "parents": [],
+      "children": [
+        "list"
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": "list",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 29352,
+      "names": [
+        "list"
+      ],
+      "files": [
+        "list.module.js"
+      ],
+      "hash": "b79354aaa7d2849b0436",
+      "siblings": [],
+      "parents": [
+        "blog"
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
