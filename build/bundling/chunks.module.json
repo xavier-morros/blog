@@ -2,19 +2,19 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "f7fe5c9749f0337a3035",
+  "hash": "7a0afd2a78632f41e15a",
   "publicPath": "/static/",
   "outputPath": "/Users/xavi/Dev/blog/build/static",
   "assetsByChunkName": {
     "blog": [
       "blog.module.js",
-      "blog.66357189263610b384a6.hot-update.js"
+      "blog.1ca9b4b7235a2a0360b5.hot-update.js"
     ],
     "list": "list.module.js"
   },
   "assets": [
     {
-      "name": "66357189263610b384a6.hot-update.json",
+      "name": "1ca9b4b7235a2a0360b5.hot-update.json",
       "size": 46,
       "chunks": [],
       "chunkNames": [],
@@ -25,8 +25,8 @@
       "emitted": false
     },
     {
-      "name": "blog.66357189263610b384a6.hot-update.js",
-      "size": 13898,
+      "name": "blog.1ca9b4b7235a2a0360b5.hot-update.js",
+      "size": 13963,
       "chunks": [
         "blog"
       ],
@@ -41,7 +41,7 @@
     },
     {
       "name": "blog.module.js",
-      "size": 6426930,
+      "size": 6426995,
       "chunks": [
         "blog"
       ],
@@ -61,7 +61,7 @@
         "list"
       ],
       "info": {},
-      "emitted": false
+      "emitted": true
     }
   ],
   "filteredAssets": 0,
@@ -72,7 +72,7 @@
       ],
       "assets": [
         "blog.module.js",
-        "blog.66357189263610b384a6.hot-update.js"
+        "blog.1ca9b4b7235a2a0360b5.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -85,7 +85,7 @@
       ],
       "assets": [
         "blog.module.js",
-        "blog.66357189263610b384a6.hot-update.js"
+        "blog.1ca9b4b7235a2a0360b5.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -107,15 +107,15 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 1654855,
+      "size": 1654954,
       "names": [
         "blog"
       ],
       "files": [
         "blog.module.js",
-        "blog.66357189263610b384a6.hot-update.js"
+        "blog.1ca9b4b7235a2a0360b5.hot-update.js"
       ],
-      "hash": "eb1728de71c2cd1388fc",
+      "hash": "8ff6bded36d625ef308c",
       "siblings": [],
       "parents": [],
       "children": [

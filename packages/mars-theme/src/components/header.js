@@ -8,7 +8,7 @@ const Header = ({ state }) => {
     <>
       <Container>
         <StyledLink link="/">
-          <Title>{state.frontity.title}</Title>
+          <Title>Title changed by a git push to Github</Title>
         </StyledLink>
         <Description>{state.frontity.description}</Description>
         <MobileMenu />
